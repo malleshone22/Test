@@ -60,6 +60,7 @@ public class DuplicateCharacters {
 		;
 		
 		System.out.println(findFirst);
+		System.out.println("DuplicateCharacters.main()");
 		
 		
 	}

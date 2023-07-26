@@ -3,6 +3,10 @@ package com.shashi.beans;
 import java.io.Serializable;
 
 public class AdminBean implements Serializable {
+	private void systrace() {
+		// TODO Auto-generated method stub
+
+	}
 	/**
 	 * 
 	 */
